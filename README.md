@@ -106,3 +106,13 @@ Successfully demonstrated:
 * Consul-based service discovery
 * DNS-based service resolution
 * Secure AWS deployment
+## Infrastructure as Code
+
+Terraform configuration is available in the `terraform/` directory.
+
+Resources provisioned:
+
+- AWS EC2 Node-A
+- AWS EC2 Node-B
+- AWS Security Group
+- Network access configuration
